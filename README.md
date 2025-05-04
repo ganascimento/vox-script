@@ -10,7 +10,7 @@ Project developed to apply TTS and STT techniques using PyTorch as well as trans
 - **Interactive Interface:** Application built with Streamlit for easy access to project features.
 - **Multilingual Support:** Compatible with several languages to meet various needs.
 
-## Resources
+## 📚 Resources
 
 - [Python](https://www.python.org/downloads/)
 - [PyTorch](https://pytorch.org/)
